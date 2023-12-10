@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for your Linear Regression model on the House Prices dataset.
-
----
-
 # House Prices Prediction using Linear Regression
 
 ## Overview
